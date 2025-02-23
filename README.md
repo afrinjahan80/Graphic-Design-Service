@@ -63,6 +63,12 @@ Final Delivery – Delivering a complete, high-resolution design
 I have worked on both freelance marketplaces (Upwork, Fiverr, Freelancer) and corporate firms I have worked in the field. 
 I have also successfully provided graphic design services for digital marketing agencies, startups and e-commerce brands.
 
+
+# Product Editing
+
+
+![image alt](https://github.com/afrinjahan80/Graphic-Design-Service/blob/27445cce8c599625d0a9b22ce2c461f556d1705e/4.jpg
+
 # Client Testimonials
 My clients are always satisfied with my work because I:
 Meet deadlines
