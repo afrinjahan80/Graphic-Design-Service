@@ -40,9 +40,11 @@ Typography & Color Theory – Ensuring branding and visual consistency
 Motion Graphics – Creating short animations and social media video content
 
 # Product Image Editing
+
 ![image alt](https://github.com/afrinjahan80/Graphic-Design-Service/blob/d1ba875fcdb7e92ddde279ab0cf987336fa93b79/WhatsApp%20Image%202025-02-16%20at%2000.24.23_d964f4df.jpg)
 
- # T-Shirt
+ # T-Shirt Design
+ 
 ![image alt](https://github.com/afrinjahan80/Graphic-Design-Service/blob/1770a0b6086a586491699bc251f98c8685956bab/T-shirt.jpg)
 
 # Design Process
@@ -52,6 +54,10 @@ Concept Development – ​​Creating creative and original ideas
 Initial Design – Initial draft and review with the client
 Revision & Development – ​​Improving the design based on feedback
 Final Delivery – Delivering a complete, high-resolution design
+
+# Flyer Design
+
+![image alt](https://github.com/afrinjahan80/Graphic-Design-Service/blob/f98b2c8b4dcfe1b927bb8d2178953c79a2b42fa5/flyer-design-7.jpg)
 
 # Work Experience
 I have worked on both freelance marketplaces (Upwork, Fiverr, Freelancer) and corporate firms I have worked in the field. 
