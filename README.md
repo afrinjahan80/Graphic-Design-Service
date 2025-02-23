@@ -1,6 +1,8 @@
 # Graphic-Design-Service
-I am a professional graphic designer whose creativity and technical skills are applicable to various fields of digital and print media.
-Graphic design is not just a profession, it is an expression of my passion and passion.
+
+I am a creative graphic designer, skilled in branding, social media design, print and digital media. 
+I create attractive and impactful designs using various tools including Photoshop, Illustrator, Figma. 
+Ready to provide unique visual solutions for your brand or project!
 
 PRODUCT IMAGE DESIGN AND EDITING
 
