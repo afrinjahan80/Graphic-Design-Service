@@ -1,7 +1,9 @@
 # Graphic-Design-Service
 
 I am a creative graphic designer, skilled in branding, social media design, print and digital media. 
+
 I create attractive and impactful designs using various tools including Photoshop, Illustrator, Figma. 
+
 Ready to provide unique visual solutions for your brand or project!
 
 PRODUCT IMAGE DESIGN AND EDITING
