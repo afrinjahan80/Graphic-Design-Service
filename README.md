@@ -19,29 +19,43 @@ mukulsheikh91@gmail.com
 
 # Experience
 I have been working in the graphic design sector for a long time and have completed numerous projects for various international and local clients.
+
 I specialize in digital branding,
 
 # Branding & Marketing Design
+
 Logo – A symbol that represents a brand
+
 Brand Guidelines – A guide to color, typography, and design style
+
 Business Cards – For corporate identity
+
 Brochures & Flyers – Promotional and informative materials
+
 Posters & Banners – For online and offline advertising
 
 # Digital & Social Media Design
 Social Media Post & Cover Design (Facebook, Instagram, LinkedIn)
+
 YouTube Thumbnails
+
 Infographics – Presenting information in a visually appealing way
+
 Website UI Design – Web page layout and visual elements
 
 # Print & Publishing Design
 Magazine & Book Covers
+
 Packaging Design – Product Wrapping
+
 T-shirt & Merchandise Design
+
 Motion & Multimedia Design
 
 # Animated Graphics (GIF, Motion Graphics)
+
 Video Editing & Visual Effects
+
 Presentation Templates
 
 
