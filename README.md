@@ -59,9 +59,9 @@ Video Editing & Visual Effects
 Presentation Templates
 
 
-BURGER IMAGE CREATE
-
-![image alt](https://github.com/afrinjahan80/Graphic-Design-Service/blob/62f12e9e98c193bed8abaf62fab6d5c9b28efca7/Burger.jpg)
+T-SHIRT DESIGN
+ 
+![image alt](https://github.com/afrinjahan80/Graphic-Design-Service/blob/1770a0b6086a586491699bc251f98c8685956bab/T-shirt.jpg)
 
 
 # Skills
@@ -84,9 +84,11 @@ PRODUCT IMAGE EDITING
 
 ![image alt](https://github.com/afrinjahan80/Graphic-Design-Service/blob/d1ba875fcdb7e92ddde279ab0cf987336fa93b79/WhatsApp%20Image%202025-02-16%20at%2000.24.23_d964f4df.jpg)
 
-T-SHIRT DESIGN
- 
-![image alt](https://github.com/afrinjahan80/Graphic-Design-Service/blob/1770a0b6086a586491699bc251f98c8685956bab/T-shirt.jpg)
+
+BURGER IMAGE CREATE
+
+![image alt](https://github.com/afrinjahan80/Graphic-Design-Service/blob/62f12e9e98c193bed8abaf62fab6d5c9b28efca7/Burger.jpg)
+
 
 # Design Process
 I work on each project through the following steps:
@@ -101,7 +103,7 @@ FLYER DESIGN
 ![image alt](https://github.com/afrinjahan80/Graphic-Design-Service/blob/f98b2c8b4dcfe1b927bb8d2178953c79a2b42fa5/flyer-design-7.jpg)
 
 # Work Experience
-I have worked on both freelance marketplaces (Upwork, Fiverr, Freelancer) and corporate firms I have worked in the field. 
+I have worked on both freelance marketplaces (Upwork, Fiverr, Freelancer) and Corporate firms I have worked in the field. 
 I have also successfully provided graphic design services for digital marketing agencies, startups and e-commerce brands.
 
 # Client Testimonials
