@@ -62,12 +62,6 @@ FLYER DESIGN
 I have worked on both freelance marketplaces (Upwork, Fiverr, Freelancer) and corporate firms I have worked in the field. 
 I have also successfully provided graphic design services for digital marketing agencies, startups and e-commerce brands.
 
-
-PRODUCT EDITING
-
-
-![image alt](https://github.com/afrinjahan80/Graphic-Design-Service/blob/db39736d17308329f100e44c978130feeb6cbc93/44.jpg)
-
 # Client Testimonials
 My clients are always satisfied with my work because I:
 Meet deadlines
