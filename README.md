@@ -2,7 +2,7 @@
 I am a professional graphic designer whose creativity and technical skills are applicable to various fields of digital and print media.
 Graphic design is not just a profession, it is an expression of my passion and passion.
 
-[image alt](https://github.com/afrinjahan80/Graphic-Design-Service/blob/31d4250c4a9891adbdf7f20669ab7daa7eb54197/Photoshop%20editing.jpg)
+(https://github.com/afrinjahan80/Graphic-Design-Service/blob/31d4250c4a9891adbdf7f20669ab7daa7eb54197/Photoshop%20editing.jpg)
 
 # Experience
 I have been working in the graphic design sector for a long time and have completed numerous projects for various international and local clients.
