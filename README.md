@@ -1,4 +1,4 @@
-# Graphic-Design-Service
+# Graphic Designer and Branding Expert
 
 I am a creative graphic designer, skilled in branding, social media design, print and digital media. 
 
