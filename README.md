@@ -2,6 +2,7 @@
 I am a professional graphic designer whose creativity and technical skills are applicable to various fields of digital and print media.
 Graphic design is not just a profession, it is an expression of my passion and passion.
 
+# Combine image Creation
 ![image alt](https://github.com/afrinjahan80/Graphic-Design-Service/blob/31d4250c4a9891adbdf7f20669ab7daa7eb54197/Photoshop%20editing.jpg)
 
 # Burger image Create
@@ -31,7 +32,10 @@ Figma & Sketch – Web and mobile app UI/UX design
 Typography & Color Theory – Ensuring branding and visual consistency
 Motion Graphics – Creating short animations and social media video content
 
- T-Shirt
+# Product Image Editing
+![image alt](https://github.com/afrinjahan80/Graphic-Design-Service/blob/d1ba875fcdb7e92ddde279ab0cf987336fa93b79/WhatsApp%20Image%202025-02-16%20at%2000.24.23_d964f4df.jpg)
+
+ # T-Shirt
 ![image alt](https://github.com/afrinjahan80/Graphic-Design-Service/blob/1770a0b6086a586491699bc251f98c8685956bab/T-shirt.jpg)
 
 # Design Process
