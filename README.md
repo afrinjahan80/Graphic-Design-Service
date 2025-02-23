@@ -32,11 +32,17 @@ BURGER IMAGE CREATE
 
 # My skills include:
 Adobe Photoshop – Image editing, retouching, and digital painting
+
 Adobe Illustrator – Logo design, vector graphics, and infographic design
+
 Adobe InDesign – Magazine, brochure, and print design
+
 Figma & Sketch – Web and mobile app UI/UX design
+
 Typography & Color Theory – Ensuring branding and visual consistency
+
 Motion Graphics – Creating short animations and social media video content
+
 
 PRODUCT IMAGE EDITING
 
