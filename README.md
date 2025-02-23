@@ -10,12 +10,11 @@ I specialize in digital branding, logo design, web design, UI/UX design, social 
 
 # Contact us to get graphics design services
 
-![image alt](https://github.com/afrinjahan80/Graphic-Design-Service/blob/9700c9cded8b1e2640aed91f3b95c07eb559b325/contact%20us.png)
 mukulsheikh91@gmail.com
 
 [👉⏩ CONTACT US WhatsApp](https://wa.me/qr/6BKWBHXSDW6GP1)
 
-# CONTACT WhatsApp +8801716856891
+[CONTACT WhatsApp +8801716856891]
 
 [👉⏩ CONTACT US E-mail](mukulsheikh91@gmail.com)
 
